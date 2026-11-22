@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DemoProduct>
+  <notice>SYNTHETIC DEMO METADATA — NOT AN OFFICIAL CHANDRAYAAN PRODUCT</notice>
+  <mission>Chandrayaan-2 (example context only)</mission>
+  <instrument>OHRC (example context only)</instrument>
+  <product_name>demo_lunar_surface.png</product_name>
+  <description>Generated illustrative image used to test LunarLens.</description>
+  <data_status>SIMULATED — NOT REAL MISSION DATA</data_status>
+</DemoProduct>

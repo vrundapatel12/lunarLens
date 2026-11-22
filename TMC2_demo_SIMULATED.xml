@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Observation>
+  <notice>SYNTHETIC DEMONSTRATION METADATA — NOT AN OFFICIAL ISRO PRODUCT</notice>
+  <mission>Chandrayaan-2 (example context only)</mission>
+  <instrument>TMC-2</instrument>
+  <product_name>TMC2_demo_SIMULATED.png</product_name>
+  <product_type>Illustrative image asset</product_type>
+  <description>Synthetic broad-swath shaded-relief-style illustration for testing the LunarLens image viewer.</description>
+  <data_status>SIMULATED — NOT REAL MISSION DATA</data_status>
+  <pixel_units>Display intensity, arbitrary 8-bit values</pixel_units>
+</Observation>
